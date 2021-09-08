@@ -11,3 +11,12 @@ Open terminal in this project root path and run the following script.
 ```
 sh ./codesign.sh "Apple Development: Developer Name"
 ```
+
+# Setup
+Open ViewController.swift L26-L27 and rewrite your ZoomSDK key and secret.
+You can get Zoom SDK keys from [Zoom App Marketplace](https://marketplace.zoom.us/)
+
+```
+let kZoomSDKKey = "SDK_API_KEY"
+let kZoomSDKSecret = "SDK_API_SECRET"
+```
