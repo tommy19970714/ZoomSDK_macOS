@@ -1,5 +1,8 @@
 # ZoomSDK_macOS
-This is a sample project for macOS zoomsdk
+This is a sample project written in swift for Zoom Video SDK of macOS
+
+<img width="500" alt="screen1" src="https://raw.githubusercontent.com/tommy19970714/ZoomSDK_macOS/main/screenshots/screen1.png">
+<img width="500" alt="screen3" src="https://raw.githubusercontent.com/tommy19970714/ZoomSDK_macOS/main/screenshots/screen3.png">
 
 # To Build
 
